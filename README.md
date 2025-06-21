@@ -48,8 +48,6 @@ src="https://img.shields.io/github/followers/mahadodla4?logo=github&style=for-th
 <h3 align="left">GitHub Statistics:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahadodla4&show_icons=true&locale=en" alt="mahadodla4" /></p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahadodla4&" alt="mahadodla4" /></p>
-<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahadodla4&show_icons=true&locale=en&layout=compact" alt="mahadodla4" /></p>
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahadodla4" alt="mahadodla4" /></a> </p>
