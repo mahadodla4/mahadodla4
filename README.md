@@ -12,7 +12,7 @@ src="https://img.shields.io/github/followers/mahadodla4?logo=github&style=for-th
 ### 💫 About Me:
 
 * Currently working as **SDE-II** – in walmart Global Tech.
-* Interested Programming languages - **Java,Cpp,Python.**
+* TECH Stack - Java Backend(Spring boot)
 * Contact to: **mahadodla4@gmail.com**
 * All my coding profiles: **https://codolio.com/profile/maha_dodla**
 * Let's connect - **https://www.linkedin.com/in/maha-dodla/**
